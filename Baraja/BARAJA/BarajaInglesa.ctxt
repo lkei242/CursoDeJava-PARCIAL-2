@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=BarajaInglesa
+comment1.params=
+comment1.target=BarajaInglesa()
+comment2.params=
+comment2.target=void\ mostrarBaraja()
+comment3.params=
+comment3.target=void\ generarCartas()
+comment4.params=
+comment4.target=void\ generarCartasNumerales()
+comment5.params=
+comment5.target=void\ generarCartasFiguras()
+comment6.params=
+comment6.target=void\ generarCartasJokers()
+numComments=7

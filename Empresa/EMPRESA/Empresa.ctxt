@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Empresa
+comment1.params=
+comment1.target=Empresa()
+comment2.params=e
+comment2.target=void\ agregarEmpleado(Empleado)
+comment3.params=
+comment3.target=void\ mostrarSalarios()
+comment4.params=
+comment4.target=Empleado\ empleadoConMasClientes()
+numComments=5

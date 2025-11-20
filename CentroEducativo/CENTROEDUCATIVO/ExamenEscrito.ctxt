@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ExamenEscrito
+comment1.params=duracion\ nota\ fecha
+comment1.target=ExamenEscrito(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ aprobo()
+numComments=3

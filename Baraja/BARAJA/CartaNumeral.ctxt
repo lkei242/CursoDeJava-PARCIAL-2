@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CartaNumeral
+comment1.params=numero\ palo
+comment1.target=CartaNumeral(int,\ Palo)
+comment2.params=
+comment2.target=java.lang.String\ getRepresentacion()
+numComments=3

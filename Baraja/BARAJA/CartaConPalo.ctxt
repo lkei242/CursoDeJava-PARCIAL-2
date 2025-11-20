@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CartaConPalo
+comment1.params=
+comment1.target=Palo\ getPalo()
+comment2.params=palo
+comment2.target=CartaConPalo(Palo)
+comment3.params=
+comment3.target=java.lang.String\ getRepresentacion()
+numComments=4

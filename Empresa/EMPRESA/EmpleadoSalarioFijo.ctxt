@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EmpleadoSalarioFijo
+comment1.params=
+comment1.target=EmpleadoSalarioFijo()
+comment2.params=DNI\ nombre\ apellido\ anioIngreso\ sueldoBasico
+comment2.target=EmpleadoSalarioFijo(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ double)
+comment3.params=
+comment3.target=double\ getSalario()
+comment4.params=
+comment4.target=double\ porcAdicional()
+numComments=5

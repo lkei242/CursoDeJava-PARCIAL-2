@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CartaFigura
+comment1.params=letra\ palo
+comment1.target=CartaFigura(char,\ Palo)
+comment2.params=
+comment2.target=java.lang.String\ getRepresentacion()
+numComments=3

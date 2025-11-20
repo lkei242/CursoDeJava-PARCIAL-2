@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CentroEducativo
+comment1.params=
+comment1.target=CentroEducativo()
+comment2.params=alum
+comment2.target=void\ agregarAlumno(Alumno)
+comment3.params=
+comment3.target=int\ cantAprobados()
+numComments=4

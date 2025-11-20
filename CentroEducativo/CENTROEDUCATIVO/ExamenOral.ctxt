@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ExamenOral
+comment1.params=nivelSatisfaccion\ fecha
+comment1.target=ExamenOral(NivelSatisfaccion,\ java.lang.String)
+comment2.params=
+comment2.target=boolean\ aprobo()
+numComments=3

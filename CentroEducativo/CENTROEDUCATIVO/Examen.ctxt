@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Examen
+comment1.params=
+comment1.target=Examen()
+comment2.params=fecha
+comment2.target=Examen(java.lang.String)
+comment3.params=
+comment3.target=boolean\ aprobo()
+numComments=4
