@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Posnet
+comment1.params=tarjeta\ montoAAbonar\ cantCuotas
+comment1.target=Ticket\ efectuarPago(TarjetaCredito,\ double,\ int)
+comment2.params=tarjeta\ monto\ cant
+comment2.target=boolean\ datosValidos(TarjetaCredito,\ double,\ int)
+comment3.params=cantCuotas
+comment3.target=double\ recargoSegunCuotas(int)
+numComments=4

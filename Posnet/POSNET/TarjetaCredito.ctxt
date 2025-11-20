@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TarjetaCredito
+comment1.params=
+comment1.target=TarjetaCredito()
+comment2.params=entidadBancaria\ nroTarjeta\ saldo\ titular\ entidadFinanciera
+comment2.target=TarjetaCredito(java.lang.String,\ java.lang.String,\ double,\ Persona,\ EntidadFinanciera)
+comment3.params=monto
+comment3.target=boolean\ tieneSaldoDisponible(double)
+comment4.params=monto
+comment4.target=void\ descontar(double)
+comment5.params=
+comment5.target=java.lang.String\ nombreCompletoDeTitular()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ticket
+comment1.params=
+comment1.target=Ticket()
+comment2.params=nombreApellido\ montoTotal\ montoPorCuota
+comment2.target=Ticket(java.lang.String,\ double,\ double)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

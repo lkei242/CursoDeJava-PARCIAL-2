@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Instrumento
+comment1.params=
+comment1.target=java.lang.String\ getID()
+comment2.params=
+comment2.target=TipoInstrumento\ getTipo()
+comment3.params=
+comment3.target=Instrumento()
+comment4.params=ID\ precio\ tipoinstrumento
+comment4.target=Instrumento(java.lang.String,\ double,\ TipoInstrumento)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

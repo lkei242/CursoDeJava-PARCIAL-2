@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Fabrica
+comment1.params=
+comment1.target=Fabrica()
+comment2.params=suc
+comment2.target=void\ agregarSucursal(Sucursal)
+comment3.params=
+comment3.target=void\ listarInstrumentos()
+comment4.params=tipo
+comment4.target=java.util.ArrayList\ instrumentosPorTipo(TipoInstrumento)
+comment5.params=ID
+comment5.target=Instrumento\ borrarInstrumento(java.lang.String)
+comment6.params=nombreSucursal
+comment6.target=double[]\ porcInstrumentosPorTipo(java.lang.String)
+comment7.params=nombreSucursal
+comment7.target=Sucursal\ buscarSucursal(java.lang.String)
+numComments=8
